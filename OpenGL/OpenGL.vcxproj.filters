@@ -13,5 +13,251 @@
       <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
       <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
     </Filter>
+    <Filter Include="资源文件\shader">
+      <UniqueIdentifier>{afc7143d-5f37-4aec-91b4-ec98c672b4f2}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="资源文件\texture">
+      <UniqueIdentifier>{6c4231fc-e130-4b13-9831-39bea993227d}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Mesh.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="MyCourses.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="MyGLLib.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="stb_image.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="Camera.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="GlobalVariables.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="main.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="Mesh.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="MyGLLib.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="ShaderLib.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="stb_image.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="Test01.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="Test02.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="Test03.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="Test04.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="Test05.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="Test06.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="Test07.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="Test08.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="Test09.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="Test10.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="Test11.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="Test12.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="Test13.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="Test14.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="Test15.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="Test16.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="Test17.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="Test18.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="Test19.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="Test20.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="Test21.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="Test22.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="Test23.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="Test24.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="Test25.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="Test26.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="Test27.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="Test28.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="Test29.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="Test30.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="Test31.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="..\GLAD\src\glad.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Shader01.fs">
+      <Filter>资源文件\shader</Filter>
+    </None>
+    <None Include="Shader01.vs">
+      <Filter>资源文件\shader</Filter>
+    </None>
+    <None Include="Shader08.fs">
+      <Filter>资源文件\shader</Filter>
+    </None>
+    <None Include="Shader08.vs">
+      <Filter>资源文件\shader</Filter>
+    </None>
+    <None Include="Shader11.fs">
+      <Filter>资源文件\shader</Filter>
+    </None>
+    <None Include="Shader11.vs">
+      <Filter>资源文件\shader</Filter>
+    </None>
+    <None Include="Shader12.fs">
+      <Filter>资源文件\shader</Filter>
+    </None>
+    <None Include="Shader12.vs">
+      <Filter>资源文件\shader</Filter>
+    </None>
+    <None Include="Shader13.fs">
+      <Filter>资源文件\shader</Filter>
+    </None>
+    <None Include="Shader13.vs">
+      <Filter>资源文件\shader</Filter>
+    </None>
+    <None Include="Shader20.fs">
+      <Filter>资源文件\shader</Filter>
+    </None>
+    <None Include="Shader20.vs">
+      <Filter>资源文件\shader</Filter>
+    </None>
+    <None Include="Shader20_light.fs">
+      <Filter>资源文件\shader</Filter>
+    </None>
+    <None Include="Shader20_light.vs">
+      <Filter>资源文件\shader</Filter>
+    </None>
+    <None Include="Shader21.fs">
+      <Filter>资源文件\shader</Filter>
+    </None>
+    <None Include="Shader21.vs">
+      <Filter>资源文件\shader</Filter>
+    </None>
+    <None Include="Shader22.fs">
+      <Filter>资源文件\shader</Filter>
+    </None>
+    <None Include="Shader22.vs">
+      <Filter>资源文件\shader</Filter>
+    </None>
+    <None Include="Shader23.fs">
+      <Filter>资源文件\shader</Filter>
+    </None>
+    <None Include="Shader23.vs">
+      <Filter>资源文件\shader</Filter>
+    </None>
+    <None Include="Shader24.fs">
+      <Filter>资源文件\shader</Filter>
+    </None>
+    <None Include="Shader24.vs">
+      <Filter>资源文件\shader</Filter>
+    </None>
+    <None Include="Shader25.fs">
+      <Filter>资源文件\shader</Filter>
+    </None>
+    <None Include="Shader25.vs">
+      <Filter>资源文件\shader</Filter>
+    </None>
+    <None Include="Shader26.fs">
+      <Filter>资源文件\shader</Filter>
+    </None>
+    <None Include="Shader26.vs">
+      <Filter>资源文件\shader</Filter>
+    </None>
+    <None Include="Shader27.fs">
+      <Filter>资源文件\shader</Filter>
+    </None>
+    <None Include="Shader27.vs">
+      <Filter>资源文件\shader</Filter>
+    </None>
+    <None Include="Shader30.fs">
+      <Filter>资源文件\shader</Filter>
+    </None>
+    <None Include="Shader30.vs">
+      <Filter>资源文件\shader</Filter>
+    </None>
+    <None Include="packages.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <Image Include="box-diffuse.png">
+      <Filter>资源文件\texture</Filter>
+    </Image>
+    <Image Include="box-specular.png">
+      <Filter>资源文件\texture</Filter>
+    </Image>
+    <Image Include="container.jpg">
+      <Filter>资源文件\texture</Filter>
+    </Image>
+    <Image Include="wall.jpg">
+      <Filter>资源文件\texture</Filter>
+    </Image>
   </ItemGroup>
 </Project>
